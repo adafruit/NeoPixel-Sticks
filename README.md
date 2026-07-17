@@ -2,9 +2,9 @@
 
 __Format is EagleCAD schematic and board layout__
 
-<a href="http://www.adafruit.com/products/1426"><img src="assets/image.jpg?raw=true" width="500px"><br/>Click here to purchase one from the Adafruit shop</a>
-<br>
-<a href="http://www.adafruit.com/products/6509"><img src="assets/6509-02.jpg?raw=true" width="500px"><br/>Click here to purchase one from the Adafruit shop</a>
+<a href="http://www.adafruit.com/products/1426"><img src="assets/image.jpg?raw=true" width="500px"><br/>5050 RGB LEDs. Click here to purchase one from the Adafruit shop</a>
+<br><br>
+<a href="http://www.adafruit.com/products/6509"><img src="assets/6509-02.jpg?raw=true" width="500px"><br/>5050 WWA White LEDs. Click here to purchase one from the Adafruit shop</a>
 
 Make your own little LED strip arrangement with this stick of NeoPixel LEDs. We crammed 8 of the tiny 5050 (5mm x 5mm) smart RGB LEDs onto a PCB with mounting holes and a chainable design. Use only one microcontroller pin to control as many as you can chain together! Each LED is addressable as the driver chip is inside the LED. Each one has ~18mA constant current drive so the color will be very consistent even if the voltage varies, and no external choke resistors are required making the design slim. Power the whole thing with 5VDC (4-7V works) and you're ready to rock.
 
